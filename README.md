@@ -1,2 +1,2 @@
 # java_dsa
-DSA  using java
+Data structures and algorithms  using java
